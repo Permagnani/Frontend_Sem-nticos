@@ -1,0 +1,22 @@
+#fundoPaginaPrincipal{
+    background-color: antiquewhite;
+}
+
+#paginaSobre{
+    background: url('espaco.jpg');
+}
+body{
+    background-color: #6495ED;
+    
+}
+
+h3{
+    color: rgb(50, 100, 150,1);
+}
+
+p{
+    color: brown;
+}
+
+#titulo{color: blueviolet;}
+.paragrafo {color: red;}
